@@ -1,0 +1,6 @@
+# Cloud Data Pipeline - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas       # Data cleaning and transformation
+boto3       # AWS SDK - talks to S3, Lambda, CloudWatch
+pytest       # For running tests locally

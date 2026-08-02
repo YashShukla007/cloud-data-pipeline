@@ -1,0 +1,19 @@
+Name ,Age, Email , Department ,Score
+John Doe,21,john@example.com,Computer Science,85
+ Jane Smith ,22, jane@example.com ,Electronics,90
+John Doe,21,john@example.com,Computer Science,85
+Ravi Kumar,,ravi@example.com,Mechanical,78
+Priya Singh,20,priya@example.com,,92
+,25,unknown@example.com,Civil,60
+Tom Brown,23,tom@example.com,Computer Science,
+Sara Lee,21,sara@example.com,Electronics,88
+ Sara Lee ,21,sara@example.com,Electronics,88
+Amit Shah,22,,Computer Science,75
+,,,,
+Neha Gupta,20,neha@example.com,Mechanical,95
+Raj Patel,21,raj@example.com,Civil,70
+Raj Patel,21,raj@example.com,Civil,70
+Sana Khan,23,sana@example.com,Computer Science,82
+Arjun Nair,22,arjun@example.com,,79
+Maya Reddy,21,maya@example.com,Electronics,
+Derek Fox,24,derek@example.com,Civil,65
